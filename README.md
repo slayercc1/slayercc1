@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=slayercc1&show_icons=true&theme=radical" width="420" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=slayercc1&theme=radical&hide_border=false" width="445" alt="GitHub Streak"/>
 </p>
