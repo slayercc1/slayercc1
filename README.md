@@ -7,13 +7,13 @@
 
 ---
 
-<p href="https://github.com/slayercc1/slayercc1">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,lua"/>
 </p>
 
 ---
 
-<div align="center" href="https://github.com/slayercc1/slayercc1">
+<div align="center">
   <img width="320" src="https://github-readme-stats.vercel.app/api?username=slayercc1&show_icons=true&theme=radical" alt="Slayer GitHub Stats"/>
   <img width="340" src="https://github-readme-streak-stats.herokuapp.com?user=slayercc1&theme=radical&hide_border=false" alt="Slayer GitHub Streak"/>
 </div>
