@@ -1,7 +1,5 @@
 <h1 align="center">𝓢𝓵𝓪𝔂𝓮𝓻</h1>
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=slayercc1&color=ff69b4&style=flat-square" alt="Profile views"/>
-</p>
 
 ---
 
