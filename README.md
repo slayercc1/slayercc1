@@ -3,7 +3,7 @@
 
 ---
 
-#### Meraklı, sorgulayıcı ve **derine inmeden tatmin olmayan** bir yazılım geliştiricisiyim. Kod benim için sadece bir araç değil, düşünme biçimidir.
+#### Meraklı, sorgulayıcı ve derine inmeden tatmin olmayan bir yazılım geliştiricisiyim. Kod benim için sadece bir araç değil, düşünme biçimidir.
 
 ---
 
@@ -14,8 +14,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slayercc1&show_icons=true&theme=radical" alt="Slayer GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=slayercc1&theme=radical&hide_border=false" alt="Slayer GitHub Streak"/>
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=slayercc1&show_icons=true&theme=radical" alt="Slayer GitHub Stats"/>
+  <img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=slayercc1&theme=radical&hide_border=false" alt="Slayer GitHub Streak"/>
 </div>
 
 ---
