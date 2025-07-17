@@ -3,7 +3,7 @@
 
 ---
 
-#### Meraklı, sorgulayıcı ve derine inmeden tatmin olmayan bir yazılım geliştiricisiyim. Kod benim için sadece bir araç değil, düşünme biçimidir.
+#### Meraklı, sorgulayıcı ve derine inmeden tatmin olmayan bir yazılım geliştiricisiyim.
 
 ---
 
