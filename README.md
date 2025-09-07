@@ -3,10 +3,6 @@
 
 ---
 
-#### Meraklı, sorgulayıcı ve derine inmeden tatmin olmayan bir yazılım geliştiricisiyim.
-
----
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,lua"/>
 </p>
