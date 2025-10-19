@@ -16,11 +16,13 @@
 
 ---
 
-<a href="https://discordapp.com/users/851153762550808586" style="display:inline-block;margin-right:10px;">
+<p align="center">
+  <a href="https://discordapp.com/users/851153762550808586" style="display:inline-block;margin-right:10px;">
     <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
   </a>
   <a href="https://steamcommunity.com/id/yoursteamid" style="display:inline-block;">
     <img src="https://img.shields.io/static/v1?logo=steam&label=&message=Steam&color=36393f&style=flat-square" alt="Steam">
   </a>
+</p>
 
 ---
